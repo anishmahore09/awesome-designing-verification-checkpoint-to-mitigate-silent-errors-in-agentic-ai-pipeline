@@ -34,6 +34,6 @@ This paper explores the role of verification checkpoints in identifying and miti
 
 ## Citation Integrity Audit
 
-The references and major claims in the AI-assisted research paper were reviewed to check the accuracy and existence of the cited sources. The audit verifies important citation details such as paper title, authors, publication year, venue, DOI or source link, and the correspondence between claims and references.
+This document records the verification of references and claims used in the AI-assisted research paper on designing verification checkpoints to mitigate silent errors in Agentic AI pipelines.
 
-[View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.pdf)
+[View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.md)

@@ -24,3 +24,10 @@ Verification checkpoints provide a structured mechanism for detecting such error
 This research area is important because conventional evaluation often focuses on the final answer and may overlook errors introduced during intermediate steps. Effective verification checkpoints can improve reliability, transparency, robustness, and safety while helping identify where failures occur.
 
 Key research directions include hallucination detection, factuality verification, tool-use validation, agent monitoring, process-level evaluation, self-correction, multi-agent verification, and benchmark development. This repository collects research papers, datasets, tools, implementations, and learning resources related to these directions.
+## AI-Assisted Research Paper
+
+### Designing Verification Checkpoints to Mitigate Silent Errors in Agentic AI Pipelines
+
+This paper explores the role of verification checkpoints in identifying and mitigating silent errors that can occur during multi-step Agentic AI workflows. It discusses how intermediate verification can improve the reliability, monitoring, and evaluation of agentic systems.
+
+[View AI-Assisted Research Paper](Agentic%20AI%20Verification%20Checkpoints%20Paper.pdf)

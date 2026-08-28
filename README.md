@@ -37,3 +37,37 @@ This paper explores the role of verification checkpoints in identifying and miti
 This document records the verification of references and claims used in the AI-assisted research paper on designing verification checkpoints to mitigate silent errors in Agentic AI pipelines.
 
 [View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.md)
+
+## Research Papers
+
+The repository contains a curated collection of verified scholarly papers organized by research theme, including surveys, foundational research, verification methods, agentic AI evaluation, tool-using systems, and safety and failure detection.
+
+[View Verified Research Papers](references/references.md)
+
+## Datasets
+
+Selected datasets and benchmarks relevant to evaluating Agentic AI systems, tool use, reliability, and failure detection.
+
+[View Datasets](datasets/datasets.md)
+
+## Tools and Libraries
+
+Useful frameworks and libraries for developing, evaluating, monitoring, and verifying Agentic AI systems.
+
+[View Tools and Libraries](tools/tools.md)
+
+## GitHub Implementations
+
+Selected open-source implementations and frameworks relevant to Agentic AI evaluation, verification, monitoring, and reliable tool use.
+
+[View GitHub Implementations](implementations/github-repositories.md)
+
+## Tutorials and Learning Resources
+
+Authoritative courses, documentation, guides, and educational resources for learning about Agentic AI and AI system evaluation.
+
+[View Learning Resources](tutorials/learning-resources.md)
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

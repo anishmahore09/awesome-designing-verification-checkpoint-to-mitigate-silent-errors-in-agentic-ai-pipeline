@@ -31,3 +31,9 @@ Key research directions include hallucination detection, factuality verification
 This paper explores the role of verification checkpoints in identifying and mitigating silent errors that can occur during multi-step Agentic AI workflows. It discusses how intermediate verification can improve the reliability, monitoring, and evaluation of agentic systems.
 
 [View AI-Assisted Research Paper](Agentic%20AI%20Verification%20Checkpoints%20Paper.pdf)
+
+## Citation Integrity Audit
+
+The references and major claims in the AI-assisted research paper were reviewed to check the accuracy and existence of the cited sources. The audit verifies important citation details such as paper title, authors, publication year, venue, DOI or source link, and the correspondence between claims and references.
+
+[View Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.pdf)

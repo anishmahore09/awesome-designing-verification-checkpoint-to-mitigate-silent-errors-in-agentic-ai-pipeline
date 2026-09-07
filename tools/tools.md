@@ -41,3 +41,11 @@ DeepEval is an evaluation framework for LLM applications. It provides metrics an
 [Official Documentation](https://deepeval.com/)
 
 [GitHub](https://github.com/confident-ai/deepeval)
+
+## 6. Local Model Calibration Kit
+
+The Local Model Calibration Kit is a runtime verification checkpoint for local LLM code generation. It runs as an OpenAI-compatible proxy between an agent harness and the inference server, scoring each generation's likelihood of being wrong from per-token logprob statistics calibrated per model on the user's own tasks, and returning a verdict plus ranked recovery interventions before tests run. Silent wrongness in generated code is flagged at generation time rather than propagating to later stages, and a gate mode can regenerate likely-wrong responses. Methodology and calibration evidence are public in the repository.
+
+[Evidence reports](https://charlesdvaught-hash.github.io/calibration-kit-public/)
+
+[GitHub](https://github.com/charlesdvaught-hash/calibration-kit-public)
